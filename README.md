@@ -1,4 +1,4 @@
-We will develop below flowchar:
+We will develop below flowchart:
 
 1. Creating an Employee Registration form using JSP
 2. Submit Employee Registration form with a POST request and URL - /register
